@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{E7ABC7CB-59A1-47D9-8CA8-BA360AC06491}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{E7ABC7CB-59A1-47D9-8CA8-BA360AC06491}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.RazorPagesMovie FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.RazorPagesMovie PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
 </Properties>
